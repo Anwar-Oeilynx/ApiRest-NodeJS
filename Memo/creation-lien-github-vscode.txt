@@ -1,0 +1,5 @@
+dans Github creer repository :ApiRest-NodeJs
+dans bash :creer ou onva mettre le projet :
+mkdir ou aller dans le dossier ou on va mettre le projet 
+cd nom-dossier : nom du dossier
+$ git clone https://github.com/Anwar-Oeilynx/ApiRest-NodeJS.git

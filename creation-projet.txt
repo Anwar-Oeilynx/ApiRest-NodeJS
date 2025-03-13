@@ -1,0 +1,7 @@
+la commande à lancer est la suivante: 
+npm init 
+installer express pour creer le serveur :
+npm i express 
+pour lancer le serveur :
+aller dans le fichier package.json 
+modifier : index.js en server.js
