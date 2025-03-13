@@ -3,3 +3,7 @@ dans bash :creer ou onva mettre le projet :
 mkdir ou aller dans le dossier ou on va mettre le projet 
 cd nom-dossier : nom du dossier
 $ git clone https://github.com/Anwar-Oeilynx/ApiRest-NodeJS.git
+faire : git status 
+        git add .
+        git commit -m "decrire les modifs"
+        git push : permet de envoyer tous le dossier dans repo
